@@ -1,3 +1,5 @@
+/* eslint-disable no-console */
+/* eslint-disable no-debugger */
 const func = () => {
     const sum = (a, b) => a + b;
     let x = 10;
